@@ -2,6 +2,8 @@
 
 This project is my submission for the Navigation project with the Udacity [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). 
 
+![bananas](bananas.gif)
+
 In this project we use Deep Q-Learning(DQN) to train an agent to collect bananas within a simple 2d world. The project uses Unity's ML-Agents environment. The goal of the agent is to collect yellow bananas while avoiding blue bananas.
 
 The environment has a state space of 37 dimensions including basic information about the agent and the "ray-based" perception of the objects it can see. Note - For this project, no trainning was undertaken based on pixel values. 
