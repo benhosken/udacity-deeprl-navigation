@@ -1,7 +1,7 @@
 # Udacity Deep Reinforcement Learning 
 # Navigation Project report
 
-Ben Hosken
+Ben Hosken ben@neuronwave.com
 
 ## Implementation
 
@@ -50,4 +50,8 @@ Environment solved in 480 episodes!	Average Score: 13.00
 ```
 
 ## Ideas for future work
+
+Overall, this environment was easily solved using a simple DQN DNN model with a very shallow configuration of layers. 
+
+I believe that implementation of Dueling DQNs or other enhacemnets to the standrad implementatuion would be overkill. 
 
