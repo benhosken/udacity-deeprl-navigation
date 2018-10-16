@@ -34,10 +34,10 @@ QNetwork(
 
 The following configurations were also tested
 
-64 64 64 32 - Solved in 395 episodes
-64 64 - Solved in 426 episodes
-128 64 - Solved in 482 episodes
-128 256 - Did not solve in under 1000 episodes
+* 64 64 64 32 - Solved in 395 episodes
+* 64 64 - Solved in 426 episodes
+* 128 64 - Solved in 482 episodes
+* 128 256 - Did not solve in under 1000 episodes
 
 The interesting observation from this is that narrow and shallow networks worked best and the wide networks failed to converge.
 
